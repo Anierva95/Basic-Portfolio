@@ -92,12 +92,15 @@ nav a:hover {
 }
 
 footer {
+    position: absolute;
     background-color: #666;
     height: 10vh;
     text-align: center;
     color: white;
     border-top: 10px solid green;
     margin: 0 auto;
+    left: 0;
+    right: 0;
 }
 
 .aboutme ul {
