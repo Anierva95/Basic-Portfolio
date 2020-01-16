@@ -101,7 +101,6 @@ nav a:hover {
 footer {
     position: absolute;
     background-color: #666;
-    height: 10vh;
     text-align: center;
     color: white;
     border-top: 10px solid green;
@@ -109,6 +108,8 @@ footer {
     left: 0;
     right: 0;
     bottom: 0;
+    vertical-align: baseline;
+    padding-top: 5%;
 }
 
 .aboutme ul {
